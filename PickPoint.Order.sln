@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickPoint.Api.Order", "PickPoint.Api.Order\PickPoint.Api.Order.csproj", "{022E7FEC-FDE5-460A-903B-DC5004FD105A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PickPoint.DataBase.Order", "PickPoint.DataBase.Order\PickPoint.DataBase.Order.csproj", "{83509F4F-9FED-45E0-9365-757799154999}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Dev|Any CPU = Dev|Any CPU
+		Production|Any CPU = Production|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Production|Any CPU.Build.0 = Production|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{022E7FEC-FDE5-460A-903B-DC5004FD105A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Dev|Any CPU.ActiveCfg = Dev|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Dev|Any CPU.Build.0 = Dev|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Production|Any CPU.ActiveCfg = Production|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Production|Any CPU.Build.0 = Production|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83509F4F-9FED-45E0-9365-757799154999}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297EA3ED-C0F3-4193-89CC-7F29F3F52CAC}
+	EndGlobalSection
+EndGlobal
